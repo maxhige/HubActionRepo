@@ -34,3 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      # Runs a Yoshida no Test
+      - name: Run a Yoshida Run!
+        run: |
+          echo Yoshida
+          echo Run
+          echo Run Run
